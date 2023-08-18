@@ -33,6 +33,7 @@ INWX WHMCS Registrar Module
 * Changeable location for Domrobot Cookiefile
 
 #### Supported WHMCS versions on current branch
+* 8.7.X (Testing)
 * 8.2.X
 * 8.1.X
 * 8.0.X
